@@ -2,8 +2,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlrwp0370)](https://solved.ac/dlrwp0370)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungikje)](https://github.com/anuraghazra/github-readme-stats)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sungikje)](https://hits.seeyoufarm.com)                    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungikje)](https://github.com/anuraghazra/github-readme-stats)                 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungikje)](https://github.com/anuraghazra/github-readme-stats)
 
