@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Sung%20Ik%20Je&fontSize=90)
 
+
 🔭 2023.02~2024.01 : Web Fullstack Development <br> 
 🔭 2024.01~        : V2X Vehicle Security Software Development <br>
 
