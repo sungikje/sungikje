@@ -1,9 +1,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Sung%20Ik%20Je&fontSize=90)
 
+<br>
 
-🔭 2023.02\~2024.01 : Web Fullstack Development <br> 
-🔭 2024.01\~        : V2X Vehicle Security Software Development <br>
+## 💼 Work Experience
+### 🔭 Web Fullstack Developer  
+📅 **Feb 2023 – Jan 2024**  
+### 🔭 V2X Vehicle Security Software Developer  
+📅 **Jan 2024 – Present**  
+
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungikje)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungikje&layout=compact)
 
