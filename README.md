@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Sung%20Ik%20Je&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Sung%20Ik%20Je&fontSize=90) -->
 
 
 ## 💼 Work Experience
