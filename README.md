@@ -10,7 +10,8 @@
 
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungikje)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungikje&layout=compact)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungikje)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungikje&layout=compact)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlrwp0370)](https://solved.ac/dlrwp0370)
