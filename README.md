@@ -10,7 +10,7 @@
 
 <br><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9D%B5%EC%A0%9C-%EC%84%B1-31836a316/)](https://www.linkedin.com/in/%EC%9D%B5%EC%A0%9C-%EC%84%B1-31836a316/)[![Instagram Badge](https://img.shields.io/badge/instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ienslzklsp/)](https://www.instagram.com/ienslzklsp/)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sungikje12@gmail.com)](mailto:sungikje12@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9D%B5%EC%A0%9C-%EC%84%B1-31836a316/)](https://www.linkedin.com/in/%EC%9D%B5%EC%A0%9C-%EC%84%B1-31836a316/) [![Instagram Badge](https://img.shields.io/badge/instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ienslzklsp/)](https://www.instagram.com/ienslzklsp/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sungikje12@gmail.com)](mailto:sungikje12@gmail.com)
 
 <br><br>
 
